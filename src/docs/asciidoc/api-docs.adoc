@@ -1,6 +1,10 @@
 = 카카오 쇼핑하기 RestAPI
 zxc88kr <https://github.com/zxc88kr>
 
+:toc: left
+:toclevels: 4
+:source-highlighter: highlightjs
+
 ifndef::snippets[]
 :snippets: ./build/generated-snippets
 endif::[]
@@ -9,10 +13,6 @@ endif::[]
 :product: product-rest-controller-test
 :cart: cart-rest-controller-test
 :order: order-rest-controller-test
-
-:toc: left
-:toclevels: 4
-:source-highlighter: highlightjs
 
 == 사용자
 
